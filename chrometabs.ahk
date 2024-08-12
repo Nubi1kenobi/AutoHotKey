@@ -1,6 +1,6 @@
 #Persistent ; Keep the script running
 SetTitleMatchMode, 2 ; Allow for partial matching of window titles
-
+;test_20240812
 ; Replace these URLs with the websites you want to open
 Website1 := "https://www.churchofjesuschrist.org/my-home/dashboard?lang=eng"
 Website2 := "https://fullscreen-for-googletasks.com/"
